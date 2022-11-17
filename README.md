@@ -5,12 +5,10 @@ Raspberry Pico and MircoPython
 
 Pin sheet
 
-CK 10 
-
-mosi 11
-
-DC  14
-
-RST   15
-
-CS  13
+| Pin   | 接口 |
+| :----------:  | :----------: |
+| CK |   10   |
+| mosi|    11     | 
+| DC|    14     | 
+| RST|    15     | 
+| CS|    13     | 
